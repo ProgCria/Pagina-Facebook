@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+
+body{
+    background-color: rgb(71, 71, 71);
+}
+
+.FirepicLogo{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 40%;
+    top: 15%;
+}
+
+.paragrapic{
+    position: absolute;
+    left: 47%;
+    top: 13%;
+    font-family: Roboto;
+    font-size: 30px;
+    color: rgb(165, 165, 165);
+}
+
+#input-box-firepic{
+    position: absolute;
+     left: 28%;
+     top: 27%;
+     width: 50%;
+     font-family: Roboto;
+     height: 30px;
+     border-radius: 10px;
+
+}
+
+.firipic-logo-amazon{
+    position: absolute;
+    width: 30px;
+    left: 30%;
+    top: 35%;
+   border: 3px solid gray;
+   border-radius: 5px;
+}
+
+
+
+
